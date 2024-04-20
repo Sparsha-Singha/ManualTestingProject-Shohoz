@@ -7,25 +7,25 @@ This repository contains a bug report for the Shohoz Railway application. The bu
 
 1. Download the Bug Report:
 
-- Click on the bug report file (Shohoz_Railway_Bug_Report.xlsx) in the file list above.
-- Click the "Download" button to download the file to your local machine.
+    - Click on the bug report file (Shohoz_Railway_Bug_Report.xlsx) in the file list above.
+    - Click the "Download" button to download the file to your local machine.
 
 2. Viewing the Bug Report:
 
-- You can view the bug report using Microsoft Excel or any spreadsheet software that supports XLSX format.
-- Open the downloaded XLSX file to access the bug report.
+    - You can view the bug report using Microsoft Excel or any spreadsheet software that supports XLSX format.
+    - Open the downloaded XLSX file to access the bug report.
 
 3. Understanding the Bug Report:
--  The bug report contains detailed information about each identified issue, including:
-    - Bug ID of the issue
-    - Description/Summary	
-    - Status	
-    - Severity	
-    - Priority	
-    - Steps to Reproduce	
-    - Expected Result	
-    - Actual Result	
-    - Screenshot
+    -  The bug report contains detailed information about each identified issue, including:
+        - Bug ID of the issue
+        - Description/Summary	
+        - Status	
+        - Severity	
+        - Priority	
+        - Steps to Reproduce	
+        - Expected Result	
+        - Actual Result	
+        - Screenshot
 
 ### Contributing
 Contributions and feedback are welcome! If you identify new issues or have suggestions for improvements, please create an issue or submit a pull request.
