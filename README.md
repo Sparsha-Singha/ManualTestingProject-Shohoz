@@ -26,6 +26,8 @@ This repository contains a bug report for the Shohoz Railway application. The bu
         - Expected Result	
         - Actual Result	
         - Screenshot
+### Bug Report
+![Main](Image Gallery/Main.PNG)
 
 ### Contributing
 Contributions and feedback are welcome! If you identify new issues or have suggestions for improvements, please create an issue or submit a pull request.
