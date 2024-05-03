@@ -28,14 +28,14 @@ This repository contains a bug report for the Shohoz Railway application. The bu
         - Screenshot
           
 ### Bug Report
-Bug report involves collecting, formatting, storing, and sharing diagnostic information about issues that interfere with the functionality of a website or application.
-![info](https://github.com/Sparsha-Singha/Manual_Testing-Shohoz/blob/main/Image%20Gallery/Info.PNG)
-![App Screenshot](https://github.com/Sparsha-Singha/Manual_Testing-Shohoz/blob/main/Image%20Gallery/Main.PNG)
+Bug report involves collecting, formatting, storing, and sharing diagnostic information about issues that interfere with the functionality of a website or application.  
+![info](https://github.com/Sparsha-Singha/Manual_Testing-Shohoz/blob/main/Image%20Gallery/Info.PNG)  
+![App Screenshot](https://github.com/Sparsha-Singha/Manual_Testing-Shohoz/blob/main/Image%20Gallery/Main.PNG)  
 
 ### Test Execution Report
-A test execution Report is a document that contains a summary of all test activities and the final test results of a testing project.
-![Chart Data](https://github.com/Sparsha-Singha/Manual_Testing-Shohoz/blob/main/Image%20Gallery/chart_data.PNG)
-![Pie Chart](https://github.com/Sparsha-Singha/Manual_Testing-Shohoz/blob/main/Image%20Gallery/Capture.PNG)
+A test execution Report is a document that contains a summary of all test activities and the final test results of a testing project.  
+![Chart Data](https://github.com/Sparsha-Singha/Manual_Testing-Shohoz/blob/main/Image%20Gallery/chart_data.PNG)  
+![Pie Chart](https://github.com/Sparsha-Singha/Manual_Testing-Shohoz/blob/main/Image%20Gallery/Capture.PNG)  
 
 ### Contributing
 Contributions and feedback are welcome! If you identify new issues or have suggestions for improvements, please create an issue or submit a pull request.
